@@ -28,5 +28,8 @@
   },
   "engines": {
     "node": "20.x"
+  },
+  "optionalDependencies": {
+    "sass-embedded-linux-x64": "^1.89.2"
   }
 }
